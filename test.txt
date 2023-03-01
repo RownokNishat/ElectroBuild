@@ -1,0 +1,198 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Electro Built | Graphics Card</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/design.css" rel="stylesheet" type="text/css">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Redressed&display=swap" rel="stylesheet">
+		<style>
+		p{font-style: italic;}
+		</style>
+	</head>
+	<body style="background-color:#294752;">
+	
+		<?php include 'header.php' ?>
+		
+		<div class="container">
+			<h1 class="m-5"><u style="color:white;">Graphics Card</u></h1>
+			<div class="row">
+				<!--------------------------------ROW 1----------------------------------------------------------- -->
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br><br><br><br></h5>
+						<p class="card-text"><br></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 12500 Tk</li>
+						<li class="list-group-item">Stock : 3</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br></h5>
+						<p class="card-text"><br>
+						</p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 6300 Tk</li>
+						<li class="list-group-item">Stock : 11</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"></h5>
+						<p class="card-text"></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 6300 Tk</li>
+						<li class="list-group-item">Stock : 8</li>
+					  </ul>
+					</div>
+				</div>
+				
+				<!--------------------------------ROW 2----------------------------------------------------------- -->
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br><br><br></h5>
+						<p class="card-text"></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 6800 Tk</li>
+						<li class="list-group-item">Stock : 10</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"></h5>
+						<p class="card-text">
+						</p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 7050 Tk</li>
+						<li class="list-group-item">Stock : 9</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br></h5>
+						<p class="card-text"><br></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 11790 Tk</li>
+						<li class="list-group-item">Stock : 8</li>
+					  </ul>
+					</div>
+				</div>
+				<!--------------------------------ROW 3----------------------------------------------------------- -->
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br><br><br></h5>
+						<p class="card-text"><br><br></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 3850 Tk</li>
+						<li class="list-group-item">Stock : 3</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"></h5>
+						<p class="card-text"></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 25500 Tk</li>
+						<li class="list-group-item">Stock : 4</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br><br></h5>
+						<p class="card-text"><br>
+						</p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 8500 Tk</li>
+						<li class="list-group-item">Stock : 5</li>
+					  </ul>
+					</div>
+				</div>
+				<!--------------------------------ROW 4----------------------------------------------------------- -->
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br></h5>
+						<p class="card-text"><br></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 41990 Tk</li>
+						<li class="list-group-item">Stock : 2</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"></h5>
+						<p class="card-text"></p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 10900 Tk</li>
+						<li class="list-group-item">Stock : 6</li>
+					  </ul>
+					</div>
+				</div>
+				<div class="col-md-4 mb-3">
+					<div class="card btn" style="width: 18rem;">
+					  <img src="images/graphics/gc1.jpg" class="card-img-top" alt="...">
+					  <div class="card-body">
+						<h5 class="card-title"><br><br></h5>
+						<p class="card-text"><br>
+						</p>
+					  </div>
+					  <ul class="list-group list-group-flush">
+						<li class="list-group-item" style="color:red;">Price : 25300 Tk</li>
+						<li class="list-group-item">Stock : 7</li>
+					  </ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		
+		<script src="js/bootstrap.js"></script>
+		<script src="js/bootstrap.bundle.js"></script>
+		<script src="js/jquery-3.4.1.slim.min.js"></script>
+		<script src="js/popper.min.js"></script>
+	</body>
+</html>
